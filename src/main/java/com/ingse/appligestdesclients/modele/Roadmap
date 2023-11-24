@@ -1,0 +1,19 @@
+Roadmap
+
+Backend :
+
+Conception (UML : diagramme de classe)
+Création d'un projet Spring Boot
+Configuration du projet
+Création des entités (modèles), des services, ...
+Configuration de Swagger (Documentation API)
+Génération du swagger.json -> Génération des services, modèle pour l’application Front.
+
+Frontend :
+
+Création et explication du projet Angular
+Découpage de l’application en composants
+Création des composants
+Création des services
+
+Note : Je n'ai pas encore terminé ce projet.
